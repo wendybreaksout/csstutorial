@@ -54,6 +54,10 @@
         background-color: red;
     }
 
+    .delete-me {
+        color: red;
+    }
+
 
 </style>
 </head>
