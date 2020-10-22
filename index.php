@@ -56,6 +56,7 @@
 
     .delete-me {
         color: red;
+        font-size: 24px;
     }
 
 
